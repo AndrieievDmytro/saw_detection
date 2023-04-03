@@ -1,1 +1,2 @@
-# saw_detection
+# Saw Detection
+Detecting saw by using SIFT algorithm.
